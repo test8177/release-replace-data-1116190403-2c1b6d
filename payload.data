@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+id > "$RUNNER_TEMP/release-candidate-1b66c353b8"
